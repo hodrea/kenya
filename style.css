@@ -1,0 +1,66 @@
+*{
+	color:white;
+	text-align: center;
+}
+
+body{
+	background-image:url(Images/wallpaper.jpg);
+}
+
+h1{
+	font-size:60px;
+	font-family: 'Carter One', cursive;
+}
+
+h2{
+	font-family: 'Kenia', cursive;
+	font-size: 55px;
+}
+
+.one{
+	color: black;
+}
+
+.two{
+	color:red;
+}
+
+.three{
+	color:green;
+}
+
+p{
+	font-size: 30px;
+}
+
+p.sand{
+	font-family: 'Splash', cursive;
+}
+
+p.park{
+	font-family: 'Ole', cursive;
+}
+
+p.tea{
+	font-family: 'Kings', cursive;
+}
+
+pre{
+	text-align: right;
+}
+
+.imgdiv{
+	background-color: rgba(0,0,0,0.5);
+	float:left;
+	width:31%;
+	padding: 15px;
+}
+
+footer{
+	clear: left;
+
+}
+
+img{
+	border: 1px solid pink;
+}
